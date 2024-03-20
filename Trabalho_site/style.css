@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Hepta+Slab:wght@1..900&display=swap');
+*{
+    text-align: center;
+   
+}
+h1{
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    
+iframe{
+    text-align: center;
+}
+}
+body{
+    background-color: lightgray;
+    
+   
+}
+
+table{
+    margin:0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: "Hepta Slab", serif;
+
+}
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+
+
+h2{
+
+    font-size: 25px;
+   background-color: white;
+   margin: 35px;
+   text-align: center;
+    
+}    
+
+h3{
+    font-family: "Forum", serif;
+    color: black;
+    margin: 35px;
+}
+
+.itemmenu{
+    padding: 10px;
+    background-color: lightseagreen;
+    color: black;
+    border-radius: 4px;
+    text-decoration: none; /*para remover o sublinhado*/
+}
+
+
+.itemmenu:hover{ /*quando passar o mouse, oq estiver dentro vai mudar de cor*/
+    background-color:lightslategray;
+    color: white;
+}
+
+p{
+    font-family: "Hepta Slab", serif;
+}
+
